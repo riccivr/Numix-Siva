@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Numix Siva
+Comment=A modern flat theme with different buttons and window colors
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Numix Siva
+MetacityTheme=Numix Siva
+ButtonLayout=:minimize,maximize,close
